@@ -1,0 +1,12 @@
+{
+  "name": "orakzai-ecommerce-empire-global-storefront-700",
+  "version": "1.0.0",
+  "description": "E-Commerce Empire — Global storefront with AI upselling",
+  "scripts": {
+    "dev": "node src/index.js",
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
